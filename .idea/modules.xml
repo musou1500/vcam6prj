@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vcam6prj.iml" filepath="$PROJECT_DIR$/.idea/modules/vcam6prj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vcam6prj_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vcam6prj_main.iml" group="vcam6prj" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vcam6prj_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vcam6prj_test.iml" group="vcam6prj" />
+    </modules>
+  </component>
+</project>
